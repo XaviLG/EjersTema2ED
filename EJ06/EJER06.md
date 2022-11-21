@@ -26,7 +26,7 @@ Ejecutando el archivo "./archivo.rb"
 ## GO
 Luego de compilar el archivo "archivo.go" ejecutamos lo que nos dio esa compilacion.
 
-##RUST
+## RUST
 Luego de compilar el archivo "archivo.rs" ejecutamos lo que nos dio esa compilacion.
 
 ## LISP
