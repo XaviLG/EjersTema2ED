@@ -1,25 +1,36 @@
-Ejecuta el programa hola mundo en los siguientes lenguajes:
-1. BASH
+# Ejecuta el programa hola mundo en los siguientes lenguajes:
+
+## BASH
 Ejecutando el archivo "./archivo.sh"
-2. PYTHON
+
+## PYTHON
 Ejecutando el archivo "./archivo.py"
-3. PHP
+
+## PHP
 Ejecutando el archivo "./archivo.php"
-4. JAVASCRIPT
+
+## JAVASCRIPT
 EJecutando el archivo "./archivo.js"
-5. C
+## C
 Luego de compilar el archivo "archivo.c" ejecutamos lo que nos dio esa compilacion.
-6. C++ 
+
+## C++ 
 Luego de compilar el archivo "archivo.cpp" ejecutamos lo que nos dio esa compilacion.
-7. JAVA
+
+## JAVA
 Luego de compilar el archivo "archivo.java" ejecutamos lo que nos dio esa compilacion.
-8. RUBY
+
+## RUBY
 Ejecutando el archivo "./archivo.rb"
-9. GO
+
+## GO
 Luego de compilar el archivo "archivo.go" ejecutamos lo que nos dio esa compilacion.
-10. RUST
+
+##RUST
 Luego de compilar el archivo "archivo.rs" ejecutamos lo que nos dio esa compilacion.
-11. LISP
+
+## LISP
 Ejecutando el archivo "./archivo.lisp"
-12. ENSAMBLADOR
+
+## ENSAMBLADOR
 Luego de ensamblar el archivo "archivo.asm" ejecutamos el resultado.
