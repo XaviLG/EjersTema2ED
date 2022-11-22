@@ -2,4 +2,6 @@
 Harold Xavier Lugo Garcia
 
 ## Curso
-2022-2023
+ 1DAM 2022-2023
+ 
+## Historial de commits
