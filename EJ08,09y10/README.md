@@ -6,32 +6,32 @@ bash usa un interprete cuyo codigo fuente es .sh
 * Python\
 Python usa un compilador es el cual es phyton cuyo, codigo fuente es .py
 
-* PHP
+* PHP\
 PHP usa un interprete el cual es php cuyo, codigo fuente es .php
 
-* JavaScript 
+* JavaScript\ 
 Usa un interprete el cual es node, cuyo codigo fuente es .js
 
-* C
+* C\
 Usa un compilador el cual es gcc, cuyo codigo fuente es .c
 
-* C++
+* C++\
 Usa un compilador el cual es g++, cuyo codigo fuente es .cpp
 
-* Java
+* Java\
 Usa un compilador el cual es javac, cuyo codigo fuente es .java
 
-8. Ruby
+* Ruby\
 Usa un interprete el cual es ruby, cuyo codigo fuente es .rb
 
-9. Go
+* Go\
 Usa un compilador cuyo codigo fuente es .go
 
-10. Rust
+* Rust\
 Usa un compilador el cual es rustc, cuyo codigo fuente es .rs
 
-11. Lisp
+* Lisp\
 Usa un interprete el cual es clisp, cuyo codigo fuente es .lisp
 
-12. Nasm
+* Nasm\
 Es el lenguaje ensamblador asi que usamos nasm para ensabarlo y el codigo fuente es .asm
