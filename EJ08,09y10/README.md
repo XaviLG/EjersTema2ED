@@ -1,9 +1,9 @@
 ## Indica el proceso para para conseguir ejecutar el codigo. Indica el nombre del compilador o interprete utilizado en GNU/Linux y investiga que extension tienen los archivos de codigo fuente
 
-1. Bash
+* Bash
 bash usa un interprete cuyo codigo fuente es .sh
 
-2. Python
+* Python
 Python usa un compilador es el cual es phyton cuyo, codigo fuente es .py
 
 3. PHP
