@@ -1,24 +1,24 @@
 ## Indica el proceso para para conseguir ejecutar el codigo. Indica el nombre del compilador o interprete utilizado en GNU/Linux y investiga que extension tienen los archivos de codigo fuente
 
-* Bash
+* Bash\
 bash usa un interprete cuyo codigo fuente es .sh
 
-* Python
+* Python\
 Python usa un compilador es el cual es phyton cuyo, codigo fuente es .py
 
-3. PHP
+* PHP
 PHP usa un interprete el cual es php cuyo, codigo fuente es .php
 
-4. JavaScript 
+* JavaScript 
 Usa un interprete el cual es node, cuyo codigo fuente es .js
 
-5. C
+* C
 Usa un compilador el cual es gcc, cuyo codigo fuente es .c
 
-6. C++
+* C++
 Usa un compilador el cual es g++, cuyo codigo fuente es .cpp
 
-7. Java
+* Java
 Usa un compilador el cual es javac, cuyo codigo fuente es .java
 
 8. Ruby
