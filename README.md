@@ -48,3 +48,25 @@ Harold Xavier Lugo Garcia
 8. arreglando cambios minimos
 9. cambios minimos
 10. subiendo cambios
+11. cambios minimos
+12. subiendo cambios
+13. Update README.md
+14. Update README.md
+15. Mejorando presentacion
+16. subo cambios
+17. subiendo cambios
+18. arreglando
+19. arreglando cambios
+20. eliminando archivos
+21. Corrigiendo ejercicios
+22. Create README.md
+
+### Commits on Nov 21, 2022
+1. corrigo fallos de algunos ejercicios
+2. Subo los ejercicio del 2 al 6
+3. subo primer ejercicio
+4. borro
+5. subo el primer ejercicio
+6. Delete ejer01.md
+7. Update ejer01.md
+8. primer commit
