@@ -1,0 +1,50 @@
+<project>
+
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.miempresa.app</groupId>
+  <artifactId>mi-app</artifactId>
+  <version>1.0.0</version>
+  <name>mi-app</name>
+
+  <build>
+    <plugins>
+      <plugin>
+        <!-- Para construir un JAR ejecutable -->
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-jar-plugin</artifactId>
+        <version>3.0.2</version>
+        <configuration>
+          <archive>   
+            <manifest>
+              <addClasspath>true</addClasspath>
+              <classpathPrefix>./</classpathPrefix>
+              <mainClass>com.miempresa.app.App</mainClass>
+            </manifest>
+          </archive>
+        </configuration>
+      </plugin>
+
+      <plugin>
+        <!-- Para ejecutar el JAR creado --> 
+        <groupId>org.codehaus.mojo</groupId>
+          <artifactId>exec-maven-plugin</artifactId>
+          <version>1.2.1</version>
+          <configuration>
+            <mainClass>com.miempresa.app.App</mainClass>
+          </configuration>
+       </plugin>
+    </plugins>
+  </build>
+
+  <dependencies>
+    <dependency>
+      <!-- Prueba de unidades -->
+      <groupId>junit</groupId>
+      <artifactId>junit</artifactId>
+      <version>4.12</version>
+      <scope>test</scope>
+    </dependency>
+  </dependencies>
+
+</project>
+
