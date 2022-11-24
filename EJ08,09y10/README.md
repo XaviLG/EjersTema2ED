@@ -1,37 +1,37 @@
 ## Indica el proceso para para conseguir ejecutar el codigo. Indica el nombre del compilador o interprete utilizado en GNU/Linux y investiga que extension tienen los archivos de codigo fuente
 
-* Bash\
+### Bash
 bash usa un interprete cuyo codigo fuente es .sh
 
-* Python\
+### Python
 Python usa un compilador es el cual es phyton cuyo, codigo fuente es .py
 
-* PHP\
+### PHP
 PHP usa un interprete el cual es php cuyo, codigo fuente es .php
 
-* JavaScript\ 
+### JavaScript 
 Usa un interprete el cual es node, cuyo codigo fuente es .js
 
-* C\
+### C
 Usa un compilador el cual es gcc, cuyo codigo fuente es .c
 
-* C++\
+### C++
 Usa un compilador el cual es g++, cuyo codigo fuente es .cpp
 
-* Java\
+### Java
 Usa un compilador el cual es javac, cuyo codigo fuente es .java
 
-* Ruby\
+### Ruby
 Usa un interprete el cual es ruby, cuyo codigo fuente es .rb
 
-* Go\
+### Go
 Usa un compilador cuyo codigo fuente es .go
 
-* Rust\
+### Rust
 Usa un compilador el cual es rustc, cuyo codigo fuente es .rs
 
-* Lisp\
+### Lisp
 Usa un interprete el cual es clisp, cuyo codigo fuente es .lisp
 
-* Nasm\
+### Nasm
 Es el lenguaje ensamblador asi que usamos nasm para ensabarlo y el codigo fuente es .asm
