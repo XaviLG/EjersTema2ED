@@ -140,7 +140,7 @@ Harold Xavier Lugo Garcia
     Create README.md
 
 * commit cbb0cd34bd061fca85dd75194353c396252366ba
-* Author: XaviLG <harold.xavilu21@gmail.com>
+* Author: XaviLG 
 * Date:   Thu Nov 24 12:26:32 2022 +0100
 
     subo ejercicio 19
